@@ -4,5 +4,8 @@ Splash screen when the application is opened.
 
 Main Menu of the application.
 
+![Menu screen 2](https://user-images.githubusercontent.com/71825311/121158334-335c0f00-c842-11eb-8633-5a00a343d49b.JPG)
+
+
 
 
