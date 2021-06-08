@@ -18,6 +18,11 @@ Student support menu.
 
 ![student support Menu](https://user-images.githubusercontent.com/71825311/121161217-acf4fc80-c844-11eb-8b9f-7eb5cc795a0f.JPG)
 
+Student Timetable.
+
+![timetable](https://user-images.githubusercontent.com/71825311/121161417-df9ef500-c844-11eb-8d72-d7b397f2b009.JPG)
+
+
 Student forum.
 
 ![forum screen](https://user-images.githubusercontent.com/71825311/121158973-ae252a00-c842-11eb-9ae8-914285bad0d6.JPG)
